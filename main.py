@@ -1,3 +1,3 @@
-while n =< 1:
-    print("Hello, world!")
-    n =+ 1
+
+print("hello worldldl")
+print("GitHub heeft een mooi hoofdkantoor! Shout out naar PJ!!!!")
