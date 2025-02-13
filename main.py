@@ -1,2 +1,2 @@
 print("hello worldldl")
-printd("std::cout << \"Hello Wordl by Kaikou\" << std::endl;")
+print("std::cout << \"Hello Wordl by Kaikou\" << std::endl;")
